@@ -1,2 +1,2 @@
 # Patterns
-This repo has different pattern coded in C++
+This repo has different patterns coded in C++
